@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Carros',
+    'Qual o carro mais rápido do mundo?',
+    'Koenigsegg Jesko Absolut,cerca de 531 km.'
 )
 
 criaCartao(
