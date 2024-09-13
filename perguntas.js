@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Futebol',
+    'Qual o elenco mais caro do Brasil?',
+    'Flamengo,em torno de R$ 1,1 bilhão.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Jogos',
+    'Qual o melhor jogo de celular em 2019?',
+    'Free Fire é eleito o melhor jogo de 2019 no Prêmio E-Sports Brasil.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Animais',
+    'Qual animal que não bebe água?',
+    'O coala.'
 )
